@@ -1,10 +1,5 @@
-Here’s a detailed README template you can use for your Face Mask Detection project on GitHub:
-
----
-
 # Face Mask Detection using CNN (Deep Learning)
 
-![Project Banner](path_to_your_project_banner_image) <!-- Replace with the actual path if you have a banner image -->
 
 ## Overview
 
@@ -18,7 +13,7 @@ This project focuses on building a Face Mask Detection system using Convolutiona
 - [Web Application](#web-application)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
+- [Screenshots](#screenshots)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
 - [License](#license)
@@ -94,8 +89,9 @@ To run this project locally, follow these steps:
 - The model will process the image and display whether the person is wearing a mask or not.
 - The prediction result will be shown below the upload button with a confidence score.
 
-## Results
+## Screenshots
 
+<img width="1728" alt="DL06" src="https://github.com/user-attachments/assets/08231a63-1e17-4830-a1a8-69f37e7963f8">
 
 
 ## Future Work
@@ -115,8 +111,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/).
-- Special thanks to the contributors of the various open-source libraries used in this project.
 
----
-
-Feel free to customize any part of this template to better fit your project!
